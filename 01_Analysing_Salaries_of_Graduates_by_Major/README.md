@@ -29,12 +29,8 @@ The necessary steps to make the program work:</br>
 
 **Example view:**</br>
 
-see the pdf main.ipynb - Colaboratory.pdf
 
-<object data="main.ipynb - Colaboratory.pdf" type="application/pdf">
-    <embed src="main.ipynb - Colaboratory.pdf"></embed>
-</object>
-
+<a href="main.ipynb - Colaboratory.pdf">see the pdf main.ipynb - Colaboratory.pdf</a>
 
 ---
 
