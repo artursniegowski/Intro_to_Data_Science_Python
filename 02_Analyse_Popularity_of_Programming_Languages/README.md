@@ -42,4 +42,4 @@ The necessary steps to make the program work:</br>
 
 **The program was developed using python 3.11.0, Pandas 1.5.1, Matplotlib, Jupyter-Notebook**
 
-In order to run the program, open main.main.ipynb and install the required add-ons.
+In order to run the program, open main.ipynb and install the required add-ons.
