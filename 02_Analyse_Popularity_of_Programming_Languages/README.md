@@ -35,6 +35,7 @@ The necessary steps to make the program work:</br>
 </br>
 </br>
 ***End result:***</br>
+
 ![Screenshot](docs/img/most_popular_lang_graph.png)</br>
 
 
