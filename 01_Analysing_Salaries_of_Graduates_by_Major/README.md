@@ -3,7 +3,7 @@
 Basic operations using the Pandas library for data exploration. As an example, data from salaries_by_college_major.csv was
 used and explored with Python Library Pandas. In order to have a better understanding and manipulation of data, the Jupyter Notebook was used, which is an interactive computing platform.
 In this example, the salaries of post-university graduates by major are being analised.
-
+ 
 
 ---
 
