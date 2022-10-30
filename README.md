@@ -11,3 +11,8 @@ In this example, the salaries of post-university graduates by major are being an
 Each post on Stack Overflow comes with a tag. And this tag can be the name of a programming language. Based on that, we will gather data from stackoverflow and generate a csv file containing information on various programming languages and
 the number of times each language is tagged in a post. This will help us to determine which programming language is the most popular.
 The analysis is carried out using the Python Library Pandas, and the results are plotted using the Python Library Matplotlib. 
+
+## 03_Analysing_Dataset_LEGO_Pieces
+The data for LEGO pieces was used from https://rebrickable.com/downloads/ (like colors.csv, sets.csv, and themes.csv).
+The analysis is carried out using the Python Library Pandas, and the results are plotted using the Python Library Matplotlib. Some examples of how to use a relational database and merge columns were described in this analysis.
+Some very interesting facts could be found thanks to this analysis, like the most enormous Lego set ever or how many pieces did it have? Or, when were the first LEGO sets released, and how many sets did the company sell when it first opened its doors? Or we can explore which LEGO theme is the most popular. By analysing the data, we can see when the company really took off based on its product offering. We can also answer questions like whether LEGO complexity has changed over time, or which sets tend to have more parts. 

@@ -32,6 +32,11 @@ The necessary steps to make the program work:</br>
 
 <a href="main.ipynb - Colaboratory.pdf">see the pdf main.ipynb - Colaboratory.pdf</a>
 
+***End result:***
+</br>
+
+![Screenshot](docs/img/results.png)</br>
+
 ---
 
 **The program was developed using python 3.10.8, Pandas 1.5.1, Jupyter-Notebook**
