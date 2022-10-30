@@ -41,7 +41,7 @@ The necessary steps to make the program work:</br>
 ![Screenshot](docs/img/most_popular_lang_graph.png)</br>
 
 
----
+--- 
 
 **The program was developed using python 3.11.0, Pandas 1.5.1, Matplotlib, Jupyter-Notebook**
 
