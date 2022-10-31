@@ -16,3 +16,12 @@ The analysis is carried out using the Python Library Pandas, and the results are
 The data for LEGO pieces was used from https://rebrickable.com/downloads/ (like colors.csv, sets.csv, and themes.csv).
 The analysis is carried out using the Python Library Pandas, and the results are plotted using the Python Library Matplotlib. Some examples of how to use a relational database and merge columns were described in this analysis.
 Some very interesting facts could be found thanks to this analysis, like the most enormous Lego set ever or how many pieces did it have? Or, when were the first LEGO sets released, and how many sets did the company sell when it first opened its doors? Or we can explore which LEGO theme is the most popular. By analysing the data, we can see when the company really took off based on its product offering. We can also answer questions like whether LEGO complexity has changed over time, or which sets tend to have more parts. 
+
+## 04_Combine_Google_Trends_with_other_Data
+This analysis shows how to combine Google trends with web searches from https://trends.google.com/trends in comparison to some other data. The popularity of search terms can tell us a lot about future trends. In this particular example, three main data sets were examined.</br>
+1. Bitcoin search volume in comparison to Bitcoin prices</br>
+2. The relationship between Tesla's stock price and Tesla search volume</br>
+3. Unemployment Rate vs. Unemployment Benefits Search Volume</br>
+For getting the bitcoin, the Tesla stock price, https://finance.yahoo.com/quote was used.
+For getting the unemployment rate,https://fred.stlouisfed.org/series/UNRATE/ was used.
+In order to match the data, resampling of dates and time series was necessary.
