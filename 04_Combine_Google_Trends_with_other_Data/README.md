@@ -4,7 +4,7 @@ This analysis shows how to combine Google trends with web searches from https://
 1. Bitcoin search volume in comparison to Bitcoin prices</br>
 2. The relationship between Tesla's stock price and Tesla search volume</br>
 3. Unemployment Rate vs. Unemployment Benefits Search Volume</br>
-4. 
+
 For getting the bitcoin, the Tesla stock price, https://finance.yahoo.com/quote was used.</br>
 For getting the unemployment rate,https://fred.stlouisfed.org/series/UNRATE/ was used.</br>
 In order to match the data, resampling of dates and time series was necessary.</br>
