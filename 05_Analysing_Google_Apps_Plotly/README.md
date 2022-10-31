@@ -40,7 +40,7 @@ The necessary steps to make the program work:</br>
 </br>
 </br>
 
-***Some examples from the analysis of LEGO:*** 
+***Some examples from the analysis:*** 
 </br>
 
 ![Screenshot](docs/img/01_chart.png)</br>
