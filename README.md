@@ -26,3 +26,14 @@ This analysis shows how to combine Google trends with web searches from https://
 For getting the bitcoin, the Tesla stock price, https://finance.yahoo.com/quote was used.</br>
 For getting the unemployment rate,https://fred.stlouisfed.org/series/UNRATE/ was used.</br>
 In order to match the data, resampling of dates and time series was necessary.</br>
+
+## 05_Analysing_Google_Apps_Plotly
+This analysis focuses on data about Google apps scraped from the Google Play Store by Lavanya Gupta in 2018. The original files are available [here] (https://www.kaggle.com/lava18/google-play-store-apps).
+The main points were depicting interesting facts about Google Apps with the help of Python libry plotly, and
+using diverse charts, like pie, bar, box, and many more.</br>
+The data about Google apps was explored to find out interesting facts like:</br>
+* how competitive various app categories (for example, games, lifestyle, and weather) are,</br>
+* What are the most popular apps,</br>
+* What was the most downloaded app's estimated revenue,</br>
+* how the monetization of an app affects its download count,</br>
+* What is a reasonable price for an app,</br>
