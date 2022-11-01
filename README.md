@@ -37,3 +37,14 @@ The data about Google apps was explored to find out interesting facts like:</br>
 * What was the most downloaded app's estimated revenue,</br>
 * how the monetization of an app affects its download count,</br>
 * What is a reasonable price for an app,</br>
+
+## 06_NumPy_and_N_Dimensional_Arrays
+In this project we will explore the NumPy (Numerical Python) Python library, which is
+used in almost every field of science and engineering. It’s practically the standard for working with numerical data in Python. It is an introduction to get a better understanding of how to work with this library.</br>
+Main points, including:</br>
+* how to work with arrays</br>
+* how to create nd.arrays</br>
+* creating arrays with standard functions such as arange(), random(), or linespace()</br>
+* What exactly is broadcasting and how does it work</br>
+* How to do linear algebra with NumPy</br>
+* Image manipulation with a NumPy array </br> 
