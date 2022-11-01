@@ -47,4 +47,4 @@ Main points, including:</br>
 * creating arrays with standard functions such as arange(), random(), or linespace()</br>
 * What exactly is broadcasting and how does it work</br>
 * How to do linear algebra with NumPy</br>
-* Image manipulation with a NumPy array </br> 
+* Image manipulation with a NumPy arrays </br> 
