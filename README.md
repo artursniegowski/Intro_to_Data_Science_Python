@@ -48,3 +48,8 @@ Main points, including:</br>
 * What exactly is broadcasting and how does it work</br>
 * How to do linear algebra with NumPy</br>
 * Image manipulation with a NumPy arrays </br> 
+
+## 07_Seaborn_and_Linear_Regression
+This project will have a focus on analysing data about films. Data was scraped on May 1, 2018 from
+https://www.the-numbers.com/movie/budgets .In this analysis, we will explore the different aspects of how the budget of a movie influences the revenue, and also how to predict future revenue based on the budget and year it was filmed.
+Different Python libraries were used. like the visualisation library [Seaborn] (https://seaborn.pydata.org/index.html), which is based on Matplotlib for generating different kinds of charts (bubble chart, scatter chart, regressions). as well as the open source data analysis library [scikit-learn] (the gold standard for machine learning), which was used to calculate the data for linear regression, check how accurate our model is, and make predictions about future revenue.
