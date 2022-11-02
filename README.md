@@ -56,7 +56,7 @@ Different Python libraries were used. like the visualisation library [Seaborn](h
 
 ## 08_Nobel_Prize_Analysis
 In this project, we're going to analyse data (https://www.nobelprize.org/prizes/lists/all-nobel-prizes/) on the past winners of the Nobel Prize. Thanks to this analysis, we will find some interesting facts about the Nobel laureates, like:
-The ratio of male to female winners, or who was the first to win a Nobel Prize, how many people got a Nobel Prize more than once, how many categories there are and how many prizes there are for each category, the number of Nobel Prizes awarded over time, which countries have the most Nobel Prizes, which cities make the most discoveries, where are the Nobel laureates born? What are the patterns or statistics in the laureates' age at the time of the award?
+The ratio of male to female winners, or who was the first to win a Nobel Prize, how many people got a Nobel Prize more than once, how many categories there are and how many prizes there are for each category, the number of Nobel Prizes awarded over time, which countries have the most Nobel Prizes, which cities make the most discoveries, where are the Nobel laureates born? What are the patterns or statistics in the laureates' age at the time of the award?</br>
 There were different Python libraries used in order to better visualise the results. 
 [Seaborn](https://seaborn.pydata.org/index.html), which is based on Matplotlib for generating different kinds of charts (bubble chart, scatter chart, box charts, regressions).
 [Plotly](https://plotly.com/python/), it's Python graphing library, makes interactive, publication-quality graphs (like sunbursts and choropleths).
