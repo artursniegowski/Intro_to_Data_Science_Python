@@ -53,3 +53,11 @@ Main points, including:</br>
 This project will have a focus on analysing data about films. Data was scraped on May 1, 2018 from
 https://www.the-numbers.com/movie/budgets .In this analysis, we will explore the different aspects of how the budget of a movie influences the revenue, and also how to predict future revenue based on the budget and year it was filmed.
 Different Python libraries were used. like the visualisation library [Seaborn](https://seaborn.pydata.org/index.html), which is based on Matplotlib for generating different kinds of charts (bubble chart, scatter chart, regressions). as well as the open source data analysis library [scikit-learn](https://scikit-learn.org/stable/) (the gold standard for machine learning), which was used to calculate the data for linear regression, check how accurate our model is, and make predictions about future revenue.
+
+## 08_Nobel_Prize_Analysis
+In this project, we're going to analyse data (https://www.nobelprize.org/prizes/lists/all-nobel-prizes/) on the past winners of the Nobel Prize. Thanks to this analysis, we will find some interesting facts about the Nobel laureates, like:
+The ratio of male to female winners, or who was the first to win a Nobel Prize, how many people got a Nobel Prize more than once, how many categories there are and how many prizes there are for each category, the number of Nobel Prizes awarded over time, which countries have the most Nobel Prizes, which cities make the most discoveries, where are the Nobel laureates born? What are the patterns or statistics in the laureates' age at the time of the award?
+There were different Python libraries used in order to better visualise the results. 
+[Seaborn](https://seaborn.pydata.org/index.html), which is based on Matplotlib for generating different kinds of charts (bubble chart, scatter chart, box charts, regressions).
+[Plotly](https://plotly.com/python/), it's Python graphing library, makes interactive, publication-quality graphs (like sunbursts and choropleths).
+[Matplotlib](https://matplotlib.org/) is a comprehensive library for creating static, animated, and interactive visualisations in Python. Matplotlib makes easy things easy and hard things possible.
