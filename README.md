@@ -61,3 +61,13 @@ There were different Python libraries used in order to better visualise the resu
 [Seaborn](https://seaborn.pydata.org/index.html), which is based on Matplotlib for generating different kinds of charts (bubble chart, scatter chart, box charts, regressions).
 [Plotly](https://plotly.com/python/), it's Python graphing library, makes interactive, publication-quality graphs (like sunbursts and choropleths).
 [Matplotlib](https://matplotlib.org/) is a comprehensive library for creating static, animated, and interactive visualisations in Python. Matplotlib makes easy things easy and hard things possible.
+
+## 09_Hospital_Birth_Deaths_Analysis
+In this project, we're going to analyse data (http://graphics8.nytimes.com/images/blogs/freakonomics/pdf/the%20etiology,%20concept%20and%20prophylaxis%20of%20childbed%20fever.pdf) that was collected by Dr. Semmelweis in the 1800s on deaths of women in maternity wards from childbed fever. Some highlights from the analysis include,
+percentage of women dying in childbirth, visualising the total number of births and deaths over time.
+And we will also look more closely into the effect of handwashing, calculating the difference in the average monthly death rate based on handwashing and using histograms to visualise the monthly distribution of outcomes (percentage of deaths).</br>
+The main libraries used in this analysis were:</br>
+[Seaborn](https://seaborn.pydata.org/index.html), which is based on Matplotlib for generating different kinds of charts.</br>
+[Plotly](https://plotly.com/python/), it's Python graphing library, makes interactive, publication-quality graphs.</br>
+[Matplotlib](https://matplotlib.org/) is a comprehensive library for creating static, animated, and interactive visualisations in Python.</br>
+[SciPy](https://docs.scipy.org/doc/scipy/index.html) is an open-source software for mathematics, science, and engineering (for calculating the t-statistic and the p-value).</br>
