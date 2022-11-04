@@ -1,7 +1,7 @@
 # 09_Hospital_Birth_Deaths_Analysis
  
 In this project, we're going to analyse data (http://graphics8.nytimes.com/images/blogs/freakonomics/pdf/the%20etiology,%20concept%20and%20prophylaxis%20of%20childbed%20fever.pdf) that was collected by Dr. Semmelweis in the 1800s on deaths of women in maternity wards from childbed fever. Some highlights from the analysis include,
-percentage of women dying in childbirth, visualising the total number of births and deaths over time.
+percentage of women dying in childbirth, visualising the total number of births and deaths over time. 
 And we will also look more closely into the effect of handwashing, calculating the difference in the average monthly death rate based on handwashing and using histograms to visualise the monthly distribution of outcomes (percentage of deaths).</br>
 The main libraries used in this analysis were:</br>
 [Seaborn](https://seaborn.pydata.org/index.html), which is based on Matplotlib for generating different kinds of charts.</br>
