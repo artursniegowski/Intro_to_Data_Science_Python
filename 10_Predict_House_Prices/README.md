@@ -1,6 +1,6 @@
 # 10_Predict_House_Prices
 
-In this project, we will use data from the UCI ML housing dataset, https://archive.ics.uci.edu/ml/machine-learning-databases/housing/. This data set includes 14 characteristics describing the housing market in the Boston area in the 1970s.
+In this project, we will use data from the UCI ML housing dataset, https://archive.ics.uci.edu/ml/machine-learning-databases/housing/. This data set includes 14 characteristics describing the housing market in the Boston area in the 1970s. 
 We will analyse the data, and based on that, we will build a multivariable regression model to predict house prices in this area. We will divide the data set into two categories: one that will be used to train or find the parameters for our multivariable linear regression, and the other that will be used for testing.
 The price will be the target value, and the rest of the characteristics (13 in total, like CRIM (crime rate), RM (number of rooms), and NOX (pollution)) will be used as factors to determine the price.
 The features will be analysed and checked to see if they are sufficient for predicting house prices.
