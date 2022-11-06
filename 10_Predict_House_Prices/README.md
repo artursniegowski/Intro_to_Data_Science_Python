@@ -61,23 +61,23 @@ The necessary steps to make the program work:</br>
 ***Overview:*** 
 </br>
 
-![Screenshot](docs/img/01_chart.png)</br>
+![Screenshot](docs/img/01_graph.png)</br>
 
-![Screenshot](docs/img/02_chart.png)</br>
+![Screenshot](docs/img/02_graph.png)</br>
 
-![Screenshot](docs/img/03_chart.png)</br>
+![Screenshot](docs/img/03_graph.png)</br>
 
-![Screenshot](docs/img/04_chart.png)</br>
+![Screenshot](docs/img/04_graph.png)</br>
 
-![Screenshot](docs/img/05_chart.png)</br>
+![Screenshot](docs/img/05_graph.png)</br>
 
-![Screenshot](docs/img/06_chart.png)</br>
+![Screenshot](docs/img/06_graph.png)</br>
 
-![Screenshot](docs/img/07_chart.png)</br>
+![Screenshot](docs/img/07_graph.png)</br>
 
-![Screenshot](docs/img/08_chart.png)</br>
+![Screenshot](docs/img/08_graph.png)</br>
 
-![Screenshot](docs/img/09_chart.png)</br>
+![Screenshot](docs/img/09_graph.png)</br>
 
 ---
 
